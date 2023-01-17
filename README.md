@@ -8,9 +8,24 @@
 
 > Kod ten definiuje funkcję obliczania chińskiego twierdzenia o resztach. Przyjmuje ona dwa argumenty: tablicę a i tablicę m. Funkcja oblicza i zwraca rozwiązanie, jeśli istnieje. W przeciwnym razie zwraca -1.
 
-## Wywołanie kodu (przykład)
+## Wywołanie kodu (w javie-przyklad)
 ```java
     int[] m = {3, 5, 7};
     int[] a = {2, 3, 2};
     int x = ChineseRemainderTheorem.compute(a, m);
+```
+
+## Wywołanie kodu (w c-przyklad)
+```c
+int main()
+{
+    int a[] = { 3, 5, 7 };
+    int r[] = { 2, 3, 2 };
+    int m[] = { 4, 5, 7 };
+    int n = sizeof(a) / sizeof(a[0]);
+
+    printf("Rozwiazanie to: %d\n",
+           ChineseRemainderTheorem(a, r, m, n));
+    return 0;
+}
 ```
