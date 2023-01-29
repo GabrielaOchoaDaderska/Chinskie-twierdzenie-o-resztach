@@ -14,6 +14,9 @@
     int[] a = {2, 3, 2};
     int x = ChineseRemainderTheorem.compute(a, m);
 ```
+## Opis kodu
+
+> Ten program demonstruje Chińskie Twierdzenie o Resztach. Program stworzony w języku Java pozwala wprowadzić trzy liczby całkowite, a następnie obliczyć i wyświetlić wynik twierdzenia. Program wykorzystuje bibliotekę graficzną, aby wyświetlić odpowiedni kalkulator i wzór twierdzenia.
 
 ## Wywołanie kodu (w c-przyklad)
 ```c
