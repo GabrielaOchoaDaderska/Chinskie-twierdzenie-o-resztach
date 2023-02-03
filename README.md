@@ -16,7 +16,8 @@
 
 ## Opis kodu - [ChineseRemainderTheorem.java](https://github.com/GabrielaOchoaDaderska/Chinskie-twierdzenie-o-resztach/blob/main/ChineseRemainderTheorem.java)
 
-> Kod tworzy prosty interfejs graficzny, w którym użytkownik może wprowadzić 3 liczby całkowite: a, b i c. Następnie użytkownik może kliknąć przycisk "Oblicz" i wyświetlony zostanie wynik w postaci "Twierdzenie Chińskich Reszt: x = x (mod b)". Kod tworzy obiekt typu JFrame, w którym znajdują się trzy pola tekstowe, trzy etykiety i jeden przycisk. Po kliknięciu przycisku wykonywana jest funkcja, w której wprowadzone liczby są przetwarzane. Następnie wynik zostaje wyświetlony w postaci okienka dialogowego.
+> Kod ten definiuje funkcję obliczania chińskiego twierdzenia o resztach. Przyjmuje ona dwa argumenty: tablicę a i tablicę m. Funkcja oblicza i zwraca rozwiązanie, jeśli istnieje. W przeciwnym razie zwraca -1.
+
 
 ## Wywołanie kodu
 ```java
@@ -32,7 +33,8 @@
 
 ## Opis kodu - [TwierdzenieReszt.java](https://github.com/GabrielaOchoaDaderska/Chinskie-twierdzenie-o-resztach/blob/main/TwierdzenieReszt.java)
 
-> Kod ten definiuje funkcję obliczania chińskiego twierdzenia o resztach. Przyjmuje ona dwa argumenty: tablicę a i tablicę m. Funkcja oblicza i zwraca rozwiązanie, jeśli istnieje. W przeciwnym razie zwraca -1.
+> Kod tworzy prosty interfejs graficzny, w którym użytkownik może wprowadzić 3 liczby całkowite: a, b i c. Następnie użytkownik może kliknąć przycisk "Oblicz" i wyświetlony zostanie wynik w postaci "Twierdzenie Chińskich Reszt: x = x (mod b)". Kod tworzy obiekt typu JFrame, w którym znajdują się trzy pola tekstowe, trzy etykiety i jeden przycisk. Po kliknięciu przycisku wykonywana jest funkcja, w której wprowadzone liczby są przetwarzane. Następnie wynik zostaje wyświetlony w postaci okienka dialogowego.
+
 
 ## Wywołanie kodu 
 ```java
