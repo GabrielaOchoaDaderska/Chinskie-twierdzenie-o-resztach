@@ -14,6 +14,11 @@
     int[] a = {2, 3, 2};
     int x = ChineseRemainderTheorem.compute(a, m);
 ```
+
+> wynik
+
+![image](https://user-images.githubusercontent.com/108947060/216556332-62eb595e-b74c-4b7a-9b4d-02effa47c02e.png)
+
 ## Wygląd kodu
 
 > wprowadzenie danych
