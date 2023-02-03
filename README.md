@@ -17,8 +17,11 @@
 ## Wygląd kodu
 
 > wprowadzenie danych
+> 
 ![image](https://user-images.githubusercontent.com/108947060/216555635-b7e952b1-c556-4f03-942c-a91155f785fc.png)
+
 > wynik
+> 
 ![image](https://user-images.githubusercontent.com/108947060/216555539-2d6fd24e-ceb8-4a99-8baa-d4382da375de.png)
 
 
