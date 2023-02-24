@@ -52,6 +52,6 @@
 > wynik
 > 
 ![image](https://user-images.githubusercontent.com/108947060/216555539-2d6fd24e-ceb8-4a99-8baa-d4382da375de.png)
-
+ ---
 
 
