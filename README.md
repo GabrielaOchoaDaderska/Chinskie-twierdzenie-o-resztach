@@ -54,7 +54,7 @@
 ![image](https://user-images.githubusercontent.com/108947060/216555539-2d6fd24e-ceb8-4a99-8baa-d4382da375de.png)
 
 
-## Opis kodu - [ChineseRemainderTheoremGraph.java](https://github.com/GabrielaOchoaDaderska/Chinskie-twierdzenie-o-resztach/blob/main/ChineseRemainderTheoremGraph.java)
+## Opis kodu - [ChineseRemainderTheoremGraph.java](https://github.com/GabrielaOchoaDaderska/Chinskie-twierdzenie-o-resztach/blob/main/ChineseRemainderTheoremGraph%20.java)
 
 > Kod ten tworzy nowe okno Swing, zawierające panel, który rysuje graf. Panel ten składa się z kilku elementów:
 
