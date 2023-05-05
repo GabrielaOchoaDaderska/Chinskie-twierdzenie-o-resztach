@@ -52,6 +52,19 @@
 > wynik
 > 
 ![image](https://user-images.githubusercontent.com/108947060/216555539-2d6fd24e-ceb8-4a99-8baa-d4382da375de.png)
+
+
+## Opis kodu - [ChineseRemainderTheoremGraph.java](https://github.com/GabrielaOchoaDaderska/Chinskie-twierdzenie-o-resztach/blob/main/ChineseRemainderTheoremGraph.java)
+
+> Kod ten tworzy nowe okno Swing, zawierające panel, który rysuje graf. Panel ten składa się z kilku elementów:
+
+- Dane wejściowe - reszty a i moduły m dla równań modularnych.
+- Obliczenie wspólnego NWW M i wspólnych NWD dla każdego równania.
+- Rysowanie grafu - wierzchołki i krawędzie dla każdego równania.
+- Algorytm Euklidesa rozszerzonego - używany do obliczenia wspólnych NWD.
+
+Ten kod rysuje graf dla trzech równań modularnych, ale można go zmodyfikować, aby rysował graf dla dowolnej liczby równań.
+
  ---
 
 
